@@ -29,10 +29,10 @@ python point_guided_deformation.py
 
 ## Results
 ### Basic Transformation
-<img src="pics/global_demo.gif" alt="alt text" width="800">
+<img src="basic_transformation.gif" alt="alt text" width="800">
 
 ### Point Guided Deformation:
-<img src="pics/point_demo.gif" alt="alt text" width="800">
+<img src="point_guided_deformation.gif" alt="alt text" width="800">
 
 ## Acknowledgement
 

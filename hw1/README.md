@@ -18,7 +18,7 @@ python -m pip install -r requirements.txt
 To run basic transformation, run:
 
 ```basic
-python basic_transform.py
+python basic_transformation.py
 ```
 
 To run point guided deformation, run:

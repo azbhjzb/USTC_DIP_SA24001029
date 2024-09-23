@@ -1,9 +1,9 @@
 ## Implementation of Image Geometric Transformation
 
-This repository is Yudong Guo's implementation of Assignment_01 of DIP. 
+This repository is TianYu Li's implementation of Assignment_01 of DIP. 
 
-<img src="pics/teaser.png" alt="alt text" width="800">
-
+<img src="basic_transformation.png" alt="alt text" width="800">
+<img src="point_guided_deformation.png" alt="alt text" width="800">
 ## Requirements
 
 To install requirements:
@@ -18,16 +18,16 @@ python -m pip install -r requirements.txt
 To run basic transformation, run:
 
 ```basic
-python run_global_transform.py
+python basic_transform.py
 ```
 
-To run point guided transformation, run:
+To run point guided deformation, run:
 
 ```point
-python run_point_transform.py
+python point_guided_deformation.py
 ```
 
-## Results (need add more result images)
+## Results
 ### Basic Transformation
 <img src="pics/global_demo.gif" alt="alt text" width="800">
 

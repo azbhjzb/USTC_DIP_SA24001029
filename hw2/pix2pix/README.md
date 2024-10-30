@@ -26,17 +26,21 @@ python train.py
 
 ## Pre-trained Models
 
-Download pix2pix_model_epoch_800.pth:
+Download pix2pix_model_epoch_800.pth in modal1,2,3:
 
 ## Results
 
 Our model achieves the following performance on :
 
-### [Facades Datatset]((https://cmp.felk.cvut.cz/~tylecr1/facade/))
+### [Facades Dataset]((https://cmp.felk.cvut.cz/~tylecr1/facade/))
 
 | Model name         | Training Loss  | Validation Loss |
 | ------------------ |---------------- | -------------- |
-| My awesome model   |     0.1021         |      0.4122       |
+| model 1  |     0.5         |      0.6       |
+
+| Model name         | Training Loss  | Validation Loss |
+| ------------------ |---------------- | -------------- |
+| model 2  |     0.1         |      0.4       |
 
 
 ## Acknowledgement

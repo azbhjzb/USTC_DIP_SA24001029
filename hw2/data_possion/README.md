@@ -1,7 +1,7 @@
 
-## Implementation of Data Possion
+## Implementation of Poisson Image Editing
 
-This repository is TianYu Li's implementation of Assignment_02(data_possion) of DIP. 
+This repository is TianYu Li's implementation of Assignment_02(Poisson Image Editing) of DIP. 
 
 ## Requirements
 
@@ -14,7 +14,7 @@ python -m pip install -r requirements.txt
 
 ## Running
 
-To run data_possion, run:
+To run poisson image editing, run:
 
 ```setup
 python data_possion.py

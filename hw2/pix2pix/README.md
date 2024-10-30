@@ -26,7 +26,7 @@ python train.py
 
 ## Pre-trained Models
 
-Download pix2pix_model_epoch_800.pth in modal1,2,3:
+Download pix2pix_model_epoch_800.pth in modal 1 and 2:
 
 ## Results
 

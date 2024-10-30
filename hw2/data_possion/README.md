@@ -1,5 +1,5 @@
 
-## Implementation of Image Geometric Transformation
+## Implementation of Data Possion
 
 This repository is TianYu Li's implementation of Assignment_02(data_possion) of DIP. 
 

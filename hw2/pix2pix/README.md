@@ -28,21 +28,17 @@ python train.py
 
 ## Pre-trained Models
 
-Download:
-
-- [My model](https://drive.google.com/mymodel.pth) trained on ImageNet using parameters x,y,z. 
-
->📋  Give a link to where/how the pretrained models can be downloaded and how they were trained (if applicable).  Alternatively you can have an additional column in your results table with a link to the models.
+Download pix2pix_model_epoch_800.pth:
 
 ## Results
 
 Our model achieves the following performance on :
 
-### [Image Classification on ImageNet](https://paperswithcode.com/sota/image-classification-on-imagenet)
+### [Facades Datatset]((https://cmp.felk.cvut.cz/~tylecr1/facade/))
 
-| Model name         | Top 1 Accuracy  | Top 5 Accuracy |
+| Model name         | Training Loss  | Validation Loss |
 | ------------------ |---------------- | -------------- |
-| My awesome model   |     85%         |      95%       |
+| My awesome model   |     0.1021         |      0.4122       |
 
 >📋  Include a table of results from your paper, and link back to the leaderboard for clarity and context. If your main result is a figure, include that figure and link to the command or notebook to reproduce it. 
 

@@ -1,5 +1,5 @@
 
-## Implementation of poisson image blending
+## Implementation of Poisson Image Blending
 
 This repository is TianYu Li's implementation of Assignment_02(poisson image blending) of DIP. 
 

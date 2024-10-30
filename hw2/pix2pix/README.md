@@ -1,4 +1,4 @@
-# ## Implementation of Image Geometric Transformation
+## Implementation of Image Geometric Transformation
 
 This repository is the official implementation of [My Paper Title](https://arxiv.org/abs/2030.12345). 
 

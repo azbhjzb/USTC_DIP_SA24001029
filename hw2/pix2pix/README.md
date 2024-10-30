@@ -1,6 +1,4 @@
->📋  A template README.md for code accompanying a Machine Learning paper
-
-# My Paper Title
+# ## Implementation of Image Geometric Transformation
 
 This repository is the official implementation of [My Paper Title](https://arxiv.org/abs/2030.12345). 
 

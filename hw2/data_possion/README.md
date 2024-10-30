@@ -1,7 +1,7 @@
 
-## Implementation of Poisson Image Editing
+## Implementation of deep learning-based DIP
 
-This repository is TianYu Li's implementation of Assignment_02(Poisson Image Editing) of DIP. 
+This repository is TianYu Li's implementation of Assignment_02(deep learning-based DIP) of DIP. 
 
 ## Requirements
 

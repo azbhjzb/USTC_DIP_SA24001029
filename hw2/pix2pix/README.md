@@ -10,6 +10,13 @@ To install requirements:
 pip install -r requirements.txt
 ```
 
+To download datasets,run:
+
+```bash
+bash download_facades_dataset.sh
+```
+
+
 >📋  Describe how to set up the environment, e.g. pip/conda/docker commands, download datasets, etc...
 
 ## Training

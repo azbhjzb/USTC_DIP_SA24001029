@@ -24,8 +24,6 @@ To train the model, run:
 python train.py
 ```
 
->📋  Describe how to evaluate the trained models on benchmarks reported in the paper, give commands that produce the results (section below).
-
 ## Pre-trained Models
 
 Download pix2pix_model_epoch_800.pth:
@@ -40,9 +38,7 @@ Our model achieves the following performance on :
 | ------------------ |---------------- | -------------- |
 | My awesome model   |     0.1021         |      0.4122       |
 
->📋  Include a table of results from your paper, and link back to the leaderboard for clarity and context. If your main result is a figure, include that figure and link to the command or notebook to reproduce it. 
 
+## Acknowledgement
 
-## Contributing
-
->📋  Pick a licence and describe how to contribute to your code repository. 
+>📋 Thanks for the algorithms proposed by [Paper: Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1411.4038).

@@ -1,7 +1,7 @@
 
-## Implementation of deep learning-based DIP
+## Implementation of poisson image blending
 
-This repository is TianYu Li's implementation of Assignment_02(deep learning-based DIP) of DIP. 
+This repository is TianYu Li's implementation of Assignment_02(poisson image blending) of DIP. 
 
 ## Requirements
 
@@ -14,14 +14,13 @@ python -m pip install -r requirements.txt
 
 ## Running
 
-To run poisson image editing, run:
+To run poisson image blending, run:
 
 ```setup
 python data_possion.py
 ```
 
 ## Results
-### Basic Transformation
 <img src="1.jpg" alt="alt text" width="800">
 <img src="2.jpg" alt="alt text" width="800">
 <img src="3.jpg" alt="alt text" width="800">

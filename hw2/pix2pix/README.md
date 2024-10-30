@@ -1,8 +1,6 @@
-## Implementation of deep learning-based DIP
+## Implementation of Deep Learning-based DIP
 
-This repository is the official implementation of [My Paper Title](https://arxiv.org/abs/2030.12345). 
-
->📋  Optional: include a graphic explaining your approach/main result, bibtex entry, link to demos, blog posts and tutorials
+This repository is TianYu Li's implementation of Assignment_02(deep learning-based DIP) of DIP.  
 
 ## Requirements
 

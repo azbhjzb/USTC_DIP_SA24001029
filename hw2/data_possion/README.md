@@ -16,9 +16,7 @@ python -m pip install -r requirements.txt
 
 To run data_possion, run:
 
-```basic
 python data_possion.py
-```
 
 ## Results
 ### Basic Transformation

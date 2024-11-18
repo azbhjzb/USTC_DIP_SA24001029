@@ -1,7 +1,7 @@
 
 ## Implementation of Image Geometric Transformation
 
-This repository is TianYu Li's implementation of Assignment_01 of DIP. 
+This repository is TianYu Li's implementation of Assignment_03(combination work） of DIP. 
 
 <img src="basic_transformation.png" alt="alt text" width="800">
 <img src="point_guided_deformation.png" alt="alt text" width="800">

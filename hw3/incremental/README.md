@@ -25,10 +25,6 @@ To train the model, run:
 python train.py
 ```
 
-## Pre-trained Models
-
-Download pix2pix_model_epoch_800.pth in modal 1 and 2:
-
 ## Results
 
 Our model achieves the following performance on :
@@ -37,28 +33,15 @@ Our model achieves the following performance on :
 
 | Model name         | Training Loss  | Validation Loss |
 | ------------------ |---------------- | -------------- |
-| model 1  |     0.5         |      0.6       |
+| model 1  |     0.1         |      0.3       |
 
 Train result:
 
-<img src="result_1_train.png" alt="alt text" width="800">
+<img src="comparison_0.png" alt="alt text" width="800">
 
 Validation result:
 
-<img src="result_1_val.png" alt="alt text" width="800">
-
-| Model name         | Training Loss  | Validation Loss |
-| ------------------ |---------------- | -------------- |
-| model 2  |     0.1         |      0.4       |
-
-Train result:
-
-<img src="result_2_train.png" alt="alt text" width="800">
-
-Validation result:
-
-<img src="result_2_val.png" alt="alt text" width="800">
-
+<img src="comparison_3.png" alt="alt text" width="800">
 
 ## Acknowledgement
 

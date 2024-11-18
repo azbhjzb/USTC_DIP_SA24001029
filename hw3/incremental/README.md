@@ -1,7 +1,7 @@
 
 ## Implementation of Deep Learning-based DIP
 
-This repository is TianYu Li's implementation of Assignment_02(deep learning-based DIP) of DIP.  
+This repository is TianYu Li's implementation of Assignment_03(incremental work) of DIP.  
 
 ## Requirements
 

@@ -48,4 +48,5 @@ scripts/gui.sh
 
 ## Results
 
-![video](https://github.com/azbhjzb/USTC_DIP_SA24001029/edit/main/hw3/combination/Video_2024-11-29_141754.mp4)
+<img src="tinywow_Video_2024-11-29_141754_70301211" alt="alt text" width="800">
+see  also "Video_2024-11-29_141754"

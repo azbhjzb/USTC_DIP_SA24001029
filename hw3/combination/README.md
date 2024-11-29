@@ -32,32 +32,20 @@ python scripts/download_model.py
 
 ## Running
 
+Note: You need to replace relative files(drag_widget.py and visualizer_drag.py) in Draggan folder with these in this folder before running. 
+
 To run Draggan+facial_alignment, run:
 
-```basic
-python basic_transformation.py
-```
-
-To run point guided deformation, run:
-
-```point
+```setup
 scripts/gui.bat
 ```
 
 or
 
-```point
+```setup
 scripts/gui.sh
 ```
 
 ## Results
-### Basic Transformation
-<img src="basic_transformation.gif" alt="alt text" width="800">
 
-### Point Guided Deformation:
-<img src="point_guided_deformation.gif" alt="alt text" width="800">
-
-## Acknowledgement
-
->📋 Thanks for the algorithms proposed by [Paper: Image Warping by Radial Basis Functions](https://www.sci.utah.edu/~gerig/CS6640-F2010/Project3/Arad-1995.pdf).
 

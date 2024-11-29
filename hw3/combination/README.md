@@ -1,22 +1,38 @@
 
-## Implementation of Image Geometric Transformation
+## Implementation of Draggan+facial_alignment
 
 This repository is TianYu Li's implementation of Assignment_03(combination work） of DIP. 
 
-<img src="basic_transformation.png" alt="alt text" width="800">
-<img src="point_guided_deformation.png" alt="alt text" width="800">
 ## Requirements
 
-To install requirements:
+To install draggan:
 
 ```setup
-python -m pip install -r requirements.txt
+git clone https://github.com/XingangPan/DragGAN.git
 ```
 
+To install facial_alignment:
+
+```setup
+pip install face-alignment
+```
+
+To setup environment
+
+```setup
+conda env create -f environment.yml
+conda activate stylegan3
+```
+
+To download pretrained model
+
+```setup
+python scripts/download_model.py
+```
 
 ## Running
 
-To run basic transformation, run:
+To run Draggan+facial_alignment, run:
 
 ```basic
 python basic_transformation.py
@@ -25,7 +41,13 @@ python basic_transformation.py
 To run point guided deformation, run:
 
 ```point
-python point_guided_deformation.py
+scripts/gui.bat
+```
+
+or
+
+```point
+scripts/gui.sh
 ```
 
 ## Results

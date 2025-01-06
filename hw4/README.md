@@ -69,6 +69,21 @@ After implementation, run:
 python train.py --colmap_dir data/chair --checkpoint_dir data/chair/checkpoints
 ```
 
+### Install colmap and pytorch3d
+
+To install colmap:
+
+```setup
+pip install colmap -c conda-forge
+```
+
+To install pytorch3d:
+
+```setup
+git clone https://github.com/facebookresearch/pytorch3d.git
+cd pytorch3d && pip install -e .
+```
+
 ### Compare with the original 3DGS Implementation
 Since we use a pure PyTorch implementation, the training speed and GPU memory usage are far from satisfactory. Also, we do not implement some crucial parts like adaptive Gaussian densification scheme. Run the [original 3DGS implementation](https://github.com/graphdeco-inria/gaussian-splatting) with the same dataset to compare the results.
 

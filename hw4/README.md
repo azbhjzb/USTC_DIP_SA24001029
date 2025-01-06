@@ -19,7 +19,7 @@ python debug_mvs_by_projecting_pts.py --data_dir data/chair
 
 To get a sparse result for rendering the whole image.
 
-### Step 2. A Simplified 3D Gaussian Splatting (Your Main Part)
+### Step 2. A Simplified 3D Gaussian Splatting
 Expand each point to a 3D Gaussian to make it cover more 3D space.
 
 #### 2.1 3D Gaussians Initialization

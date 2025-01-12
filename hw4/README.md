@@ -94,8 +94,6 @@ Part of the results is as follows：
 
 <img src="results/2.jpg" alt="View 1" width="800">
 
-<img src="results/3.jpg" alt="View 1" width="800">
-
 the 1st line for the sparse result,2nd for the training result when epoch = 100 and 3rd for the training result when epoch = 200
 
 
